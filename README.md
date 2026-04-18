@@ -1,6 +1,6 @@
-# Turkish Revolution History Project
+# First Battle of İnönü Project
 
-A Pandoc-based academic article project focused on Turkish history.
+An academic article project about the First Battle of İnönü during the Turkish War of Independence, built with Pandoc.
 
 ## Requirements
 
