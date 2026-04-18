@@ -13,7 +13,19 @@ An academic article project about the First Battle of İnönü during the Turkis
 ```bash
 brew install pandoc
 brew install --cask mactex-no-gui
-````
+```
+
+### Installation (Linux / Ubuntu on GitHub Actions)
+
+The PDF build requires "Times New Roman" font. On Ubuntu-based systems (including GitHub Actions runners), install Microsoft TrueType fonts:
+
+```bash
+sudo apt-get update
+sudo apt-get install -y pandoc texlive-full ttf-mscorefonts-installer
+sudo fc-cache -f -v
+```
+
+The `ttf-mscorefonts-installer` package provides Times New Roman and other core Microsoft fonts needed by XeLaTeX's fontspec.
 
 ## Usage
 
