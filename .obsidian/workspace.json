@@ -11,11 +11,13 @@
             "id": "4c281dc630492156",
             "type": "leaf",
             "state": {
-              "type": "pdf",
+              "type": "markdown",
               "state": {
-                "file": "out/article.pdf"
+                "file": "src/article.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-file-text",
+              "icon": "lucide-file",
               "title": "article"
             }
           }
@@ -193,9 +195,9 @@
   },
   "active": "4c281dc630492156",
   "lastOpenFiles": [
+    "out/article.pdf",
     "README.md",
     "src/article.md",
-    "out/article.pdf",
     "out/article.docx",
     "src/images/picture.png",
     "src/images",

@@ -67,7 +67,7 @@ Sonuç olarak, **1920 sonu** ve **1921 başı**nda yaşanan bu siyasi ve askeri 
 
 ## Tarafların Kuvvet Yapısı
 
-**Birinci İnönü Muharebesi** öncesinde Türk ve Yunan orduları, hem personel sayısı hem de teknik donanım bakımından oldukça dengesiz bir tablo sergilemekteydi. Muharebe, yeni kurulan **düzenli ordunun** kısıtlı imkânlarıyla, modern silahlarla donatılmış ve sayıca üstün bir işgal gücüne karşı verdiği bir sınav niteliğindeydi [@ozluHarpRaporlarinaGore2012].
+**Birinci İnönü Muharebesi** öncesinde Türk ve Yunan orduları arasında hem personel hem de teknik donanım açısından büyük bir dengesizlik vardı [@ozluHarpRaporlarinaGore2012]. Batı Cephesi Komutanı **Albay İsmet Bey** komutasındaki Türk birlikleri yaklaşık **8.500 kişilik** bir mevcuda ve sadece 28 topa sahipti. Türk tarafının en dikkat çekici özelliği, bu mücadeleyi mutlak bir yoksulluk içinde yürütmesiydi; hatta bazı birliklerin süngü ihtiyacı, fıçı çemberlerinden eğelenmiş derme çatma kasaturalarla karşılanmıştı [@tavukcuMilliMucadeleInonu2019].
 
 ### I. Türk Kuvvetlerinin Durumu ve Teşkilatlanması
 
@@ -77,9 +77,11 @@ Türk tarafının en dikkat çekici özelliği, bu mücadeleyi mutlak bir **yoks
 
 ### II. Yunan Ordusu’nun Gücü ve Donanımı
 
-Yunan tarafı ise **Korgeneral Papulas** komutasında, Türk tarafıyla kıyaslandığında her bakımdan çok daha donanımlı bir güçle sahadaydı [@ozluHarpRaporlarinaGore2012]. Yunan Genelkurmayı’nın kendi verilerine göre bu harekâta katılan personel sayısı yaklaşık **24.000** civarındaydı; bu da Türk ordusunun neredeyse **üç katı** bir büyüklüğe tekabül etmekteydi [@tavukcuMilliMucadeleInonu2019].
+Yunan tarafı ise **Korgeneral Papulas** komutasında, Türk ordusunun yaklaşık üç katı büyüklüğünde, **24.000 kişilik** modern bir güçle sahadaydı. Yunan ordusu, Türk tarafının sahip olduğunun çok üzerinde bir topçu ve makineli tüfek ateş gücüne sahipti. Bu sayısal dezavantajı Türk tarafı, birlikleri hızla kaydırarak uyguladığı **iç hat manevrası** ve inatçı bir alan savunmasıyla dengelemeye çalışmıştır [@ozluHarpRaporlarinaGore2012].
 
 Yunanların teknik üstünlüğü ateş gücünde de kendini hissettiriyordu. Yunan ordusunun elinde Türk tarafının sahip olduğunun çok üzerinde, yaklaşık **368 top** ve Türk tarafındakinden sayıca çok fazla makineli tüfek bulunmaktaydı [@tavukcuMilliMucadeleInonu2019, @ozluHarpRaporlarinaGore2012]. Bursa bölgesinde konuşlanan **3. Kolordu** birlikleri, Yenişehir ve İnegöl üzerinden ilerleyerek Türk savunma hattını kırmayı hedeflemiştir [@ozluHarpRaporlarinaGore2012]. Yunan kaynakları bu harekatı daha sonra bir "keşif taarruzu" olarak adlandırsa da, sahadaki kuvvet yığınağı bunun kapsamlı bir **imha harekâtı** olduğunu göstermektedir [@tavukcuMilliMucadeleInonu2019].
+
+Türk birlikleri, sayıca üstün düşman karşısında inatçı bir direnç gösterirken, İsmet Bey birliklerin tamamen imha olmasını önlemek amacıyla daha gerideki Beşkardeşdağı hattına çekilme emri vermiştir. Ancak Türk ordusunun direnişi ve sürekli takviye alması karşısında yıpranan Yunan komuta kademesi de benzer bir endişeyle geri çekilme kararı almıştır. **11 Ocak** sabahı Türk keşif kolları düşmanın sessizce çekildiğini rapor etmiş, böylece düzenli ordunun ilk zaferi tescillenmiştir [@ozluHarpRaporlarinaGore2012].
 
 ### III. Kuvvet Dengesi ve Stratejik Farklılıklar
 
@@ -95,7 +97,9 @@ Bu tasfiyeler Yunan ordusunu fikri ve hiyerarşik olarak ikiye bölmüştür. Ve
 
 ## Birinci İnönü Muharebesi’nin Sebepleri
 
-**Birinci İnönü Muharebesi**’nin patlak vermesi, sadece tek bir nedene bağlı olmayıp; Yunanistan’ın iç siyaseti, Anadolu’daki askeri stratejiler ve uluslararası ekonomik beklentilerin birleşimi sonucunda ortaya çıkmıştır. Bu muharebe, **TBMM Hükümeti**’nin düzenli ordusunun rüştünü ispat etmeye çalıştığı bir döneme rastlamıştır.
+**Birinci İnönü Muharebesi**’nin patlak vermesi, Yunanistan’ın iç siyaseti ve Anadolu’daki askeri dengelerin birleşimiyle ortaya çıkmıştır. En temel siyasi neden, Yunan Kralı Konstantin’in Sevr Antlaşması’nı tanımayan Ankara hükümetine bu şartları silah zoruyla kabul ettirme arzusudur. Yunanistan, Kasım 1920 seçimleri sonrası iktidara gelen kralcı yönetimin meşruiyetini pekiştirmek ve "Megali İdea" hayallerini gerçekleştirmek için Avrupa’nın desteğini tazelemek zorundaydı [@topuzNeUmdularNe2021].
+
+Askeri açıdan ise Yunan Genelkurmayı, Türk ordusunun **Çerkez Ethem İsyanı** ile meşgul olmasını stratejik bir fırsat olarak görmüştür [@oztoprakBirinciInonuSavasinin2000]. Türk kuvvetlerinin isyanı bastırmak için Gediz civarına kaydırılmasını fırsat bilen Yunanlılar, Türklerin lojistik merkezi olan **Eskişehir** üzerine yürüyerek direnişi henüz yolun başındayken ezmeyi planlamışlardır.
 
 ### I. Siyasi Sebepler
 
@@ -158,6 +162,10 @@ Muharebenin en somut askeri neticesi, **düzenli ordunun rüştünü ispat etmes
 Uluslararası diplomasi sahasında Birinci İnönü Zaferi, İtilaf Devletleri’nin Milli Mücadele’ye bakış açısında köklü bir **kırılmaya** neden olmuştur. Sevr Antlaşması’nın mevcut haliyle ve silah zoruyla uygulanamayacağı anlaşılınca, diplomatik çözüm arayışları hız kazanmıştır. Bu durumun en önemli yansıması, TBMM’nin varlığının resmen tanınması anlamına gelen **Londra Konferansı**’na Ankara Hükümeti’nin doğrudan davet edilmesidir [@tavukcuMilliMucadeleInonu2019]. İngiliz diplomasisinde de belirgin bir üslup değişikliği yaşanmış; daha önce Mustafa Kemal Paşa için kullanılan "asi" veya "çete başı" gibi ifadeler yerini **"Anadolu Hükümeti"** tanımına bırakmıştır [@tavukcuMilliMucadeleInonu2019]. Aynı zamanda bu zafer, Sovyet Rusya ile ilişkilerin rayına oturmasını sağlayarak 16 Mart 1921’de imzalanacak olan **Moskova Antlaşması**’na giden yolu açmış, böylece Milli Mücadele büyük bir dış desteği arkasına almıştır [@ozluHarpRaporlarinaGore2012].
 
 Yunanistan tarafında ise muharebe, ciddi bir siyasi sarsıntıya ve moral kaybına yol açmıştır. Yunan Genelkurmayı her ne kadar harekâtı bir "keşif taarruzu" olarak nitelendirip başarısızlığı örtbas etmeye çalışsa da, sahadaki gerçekler Atina’da **hükümet değişikliğine** neden olmuş ve Rallis Hükümeti istifa etmek zorunda kalmıştır [@tavukcuMilliMucadeleInonu2019]. Yunan ordusundaki Venizelist ve Kralcı çekişmesi bu mağlubiyetle daha da derinleşmiş, askerlerin Anadolu’daki savaşı sürdürme konusundaki inancı zayıflamaya başlamıştır. Sonuç olarak, Mustafa Kemal Paşa’nın ifadesiyle, bu zaferle sadece düşman değil, aynı zamanda **"milletin makûs talihi"** de yenilmiş; Türk milletinin esareti kabul etmeyeceği tüm dünyaya ilan edilmiştir [@tavukcuMilliMucadeleInonu2019].
+
+Bu zafer, Ankara’nın elini içerdeki muhaliflere karşı güçlendirerek **Çerkez Ethem İsyanı**’nın kesin olarak bastırılmasını sağlamıştır [@tavukcuMilliMucadeleInonu2019]. Askeri başarının yarattığı meşruiyet zeminiyle, 20 Ocak 1921’de egemenliğin millete ait olduğunu ilan eden **1921 Teşkilat-ı Esasiye Kanunu** kabul edilmiş ve Milli Mücadele'nin merkezi artık resmen İstanbul'dan Ankara'ya kaymıştır [@topuzNeUmdularNe2021].
+
+Uluslararası alanda ise İtilaf Devletleri, Sevr’in silah zoruyla kabul ettirilemeyeceğini anlayarak Ankara Hükümeti’ni resmen **Londra Konferansı**’na davet etmek zorunda kalmışlardır. Ayrıca Sovyet Rusya ile ilişkiler güçlenmiş ve 16 Mart 1921’de **Moskova Antlaşması** imzalanmıştır. Yunanistan'da ise bu başarısızlık hükümet krizine yol açarak Rallis Hükümeti'nin istifasıyla sonuçlanmıştır.
 
 ## Genel Değerlendirme
 
